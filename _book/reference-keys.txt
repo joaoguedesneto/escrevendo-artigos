@@ -2,8 +2,8 @@ fig:nice-fig
 tab:nice-tab
 eq:binom
 thm:tri
-about
-usage
+sobre-este-guia
+estrutura
 render-book
 preview-book
 introdução
@@ -23,5 +23,3 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
-sobre-este-guia
-estrutura
