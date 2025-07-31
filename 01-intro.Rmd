@@ -1,11 +1,22 @@
-# Hello bookdown 
+---
+title: "Introdução"
+output: bookdown::gitbook
+---
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+# Introdução
 
-## A section
+Este guia foi desenvolvido para auxiliar alunos de pós-graduação na redação de artigos científicos na área de Administração Pública.
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+A proposta é oferecer um roteiro claro, direto e prático, baseado em referências consagradas da literatura internacional, com foco especial em abordagens positivistas e quantitativas — mas que também pode ser útil para orientar pesquisas com outras perspectivas metodológicas.
 
-### An unnumbered section {-}
+Ao longo dos capítulos, são apresentadas recomendações sobre como estruturar as principais seções de um artigo científico, desde o título até as referências bibliográficas. O guia busca equilibrar **clareza teórica**, **consistência metodológica** e **eficiência na escrita**, facilitando a publicação em periódicos científicos da área.
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+::: tip
+A ideia central é ajudar o(a) pesquisador(a) a comunicar sua pesquisa de forma mais precisa, articulada e persuasiva — sem abrir mão do rigor acadêmico.
+:::
+
+## Sobre o autor
+
+João V. Guedes-Neto é professor da FGV EBAPE, onde atua na coordenação do Mestrado Profissional em Administração Pública (MAP) e do Doutorado Profissional em Administração Pública (DAP). É doutor em Ciência Política, com foco em burocracia, políticas públicas e governança democrática. Seus artigos têm sido publicados em periódicos nacionais e internacionais, e ele participa ativamente de projetos de pesquisa aplicada com órgãos públicos e organismos internacionais.
+
+---
