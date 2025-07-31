@@ -1,0 +1,46 @@
+# Estrutura geral de um artigo científico
+
+Este capítulo apresenta uma visão geral das seções que compõem um artigo científico típico na área de Administração Pública. A proposta aqui não é impor um modelo único e rígido, mas oferecer um roteiro que ajude a organizar o raciocínio e estruturar o texto de forma clara, lógica e publicável.
+
+Os capítulos seguintes detalham uma a uma essas seções, indicando o objetivo de cada parte do artigo, seus elementos principais e uma sugestão de extensão. Ao seguir esse roteiro, você terá uma visão clara do papel de cada bloco textual e poderá construir argumentos mais coesos e eficientes.
+
+A estrutura que proponho aqui é baseada em práticas consolidadas em periódicos nacionais e internacionais da área, especialmente voltadas a pesquisas com orientação empírica e quantitativa. Ainda assim, ela pode ser adaptada para diferentes desenhos de pesquisa, inclusive qualitativos, desde que mantida a lógica geral de articulação entre problema, teoria, método e evidência.
+
+Abaixo, apresento um resumo das seções propostas:
+
+- **Título**  
+  Resume em poucas palavras o conteúdo central do artigo. Deve indicar tema, recorte empírico ou resultados principais.
+
+- **Resumo**  
+  Apresenta, de forma concisa, a pergunta de pesquisa, a motivação, os dados utilizados, os métodos aplicados, os principais achados e sua contribuição.
+
+- **Introdução**  
+  Expõe a pergunta de pesquisa e sua relevância, resume os resultados e antecipa a contribuição do artigo para a literatura.
+
+- **Fundamentação teórica (parte 1 da teoria)**  
+  Contextualiza a área de estudo e apresenta os conceitos e debates que embasam o problema.
+
+- **Formulação de hipóteses (parte 2 da teoria)**  
+  Explica, com base na literatura, como cada hipótese é construída, quais variáveis estão em jogo e por que se espera determinada relação.
+
+- **Contexto ou estudo de caso**  
+  Descreve o caso analisado, incluindo histórico institucional, marco legal, relações de poder e elementos que o tornam relevante para a pesquisa.
+
+- **Desenho de pesquisa**  
+  Detalha os dados utilizados, a construção das variáveis, os testes realizados e os critérios de validade empírica.
+
+- **Resultados**  
+  Apresenta os dados empíricos, interpreta os coeficientes dos modelos, compara com expectativas e discute padrões encontrados.
+
+- **Discussão**  
+  Relaciona os achados empíricos com os argumentos teóricos, explicando contribuições, confirmações e contradições.
+
+- **Conclusão**  
+  Retoma a pergunta inicial, resume as principais contribuições, reconhece limitações e sugere caminhos para pesquisas futuras.
+
+- **Referências**  
+  Lista todas as fontes citadas no texto, com prioridade para artigos científicos e livros acadêmicos.
+
+Cada uma dessas seções tem uma função específica no texto. Um bom artigo é aquele em que essas partes estão articuladas entre si — cada seção prepara a próxima, e todas respondem de maneira clara à pergunta de pesquisa proposta na introdução.
+
+Nos próximos capítulos, detalho o que se espera de cada uma dessas seções e ofereço sugestões práticas para sua redação.

@@ -9,3 +9,4 @@ o-que-é-o-mapa
 como-construir
 exemplo-prático
 por-que-isso-funciona
+estrutura-geral-de-um-artigo-científico
