@@ -8,6 +8,7 @@ description: |
   Guia prático para estruturar e escrever artigos científicos em Administração Pública, com foco em clareza teórica, consistência metodológica e eficiência na escrita. Este livro é baseado em experiências de orientação acadêmica na FGV EBAPE.
 github-repo: joaoguedesneto/escrevendo-artigos
 url: https://joaoguedesneto.github.io/escrevendo-artigos/
+always_allow_html: true
 ---
 
 # Sobre este guia

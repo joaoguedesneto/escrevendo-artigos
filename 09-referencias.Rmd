@@ -29,7 +29,7 @@ Gerenciar referências manualmente é trabalhoso e arriscado. À medida que voc�
 
 Por isso, **recomendo fortemente o uso do Zotero**: um gerenciador de referências gratuito, de código aberto e amplamente utilizado na academia.
 
-> 🔗 [Acesse o site oficial do Zotero](https://www.zotero.org/)
+> [Acesse o site oficial do Zotero](https://www.zotero.org/)
 
 O Zotero permite que você:
 
@@ -47,13 +47,13 @@ Esse tipo de ferramenta é **ainda mais útil em artigos com múltiplos coautore
 
 O sistema **Qualis Capes**, tal como conhecíamos, está sendo descontinuado. Ainda assim, rankings de periódicos continuam sendo úteis — especialmente para quem está começando na pesquisa científica.
 
-> ⚠️ Os rankings falham. Mas ainda são melhores do que critério nenhum.
+> Os rankings falham. Mas ainda são melhores do que critério nenhum.
 
 Com o tempo, o pesquisador passa a reconhecer, com base na leitura crítica, quais revistas publicam bons artigos e quais autores têm produção relevante em seu campo.
 
 Enquanto isso, recomendo utilizar como referência os rankings atualizados da **Área 37 da CAPES** (Administração, Ciências Contábeis e Turismo). Um grupo de pesquisadores organizou um site que facilita essa busca:
 
-> 🔗 [https://periodicos-adm.com/](https://periodicos-adm.com/)
+> [https://periodicos-adm.com/](https://periodicos-adm.com/)
 
 Lá, você pode verificar rapidamente a classificação de um periódico de acordo com os critérios adotados recentemente pela área.
 
