@@ -1,8 +1,3 @@
----
-title: "Dicas de Escrita"
-output: bookdown::gitbook
----
-
 # Dicas iniciais de escrita
 
 Este guia não trata apenas da estrutura de um artigo científico, mas também da forma como ele é escrito. Existem diferentes estilos e preferências editoriais, e aqui compartilho como **eu costumo escrever** e orientar meus orientandos.
