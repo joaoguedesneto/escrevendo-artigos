@@ -1,31 +1,48 @@
---- 
-title: "A Minimal Book Example"
-author: "John Doe"
+---
+title: "Escrevendo Artigos Científicos em Administração Pública"
+author: "João V. Guedes-Neto"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+cover-image: images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+  Guia prático para estruturar e escrever artigos científicos em Administração Pública, com foco em clareza teórica, consistência metodológica e eficiência na escrita. Este livro é baseado em experiências de orientação acadêmica na FGV EBAPE.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: joaoguedesneto/escrevendo-artigos
+url: https://joaoguedesneto.github.io/escrevendo-artigos/
 ---
 
-# About
+# Sobre este guia
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Este livro foi criado para auxiliar estudantes de pós-graduação — especialmente da área de Administração Pública — na elaboração de artigos científicos publicáveis. Ele organiza, em formato acessível, recomendações práticas sobre como estruturar um artigo acadêmico de forma clara, coesa e alinhada às exigências das principais revistas científicas da área.
 
-## Usage 
+O conteúdo é baseado no guia original elaborado por João V. Guedes-Neto e vem sendo utilizado nos cursos de mestrado e doutorado profissional da FGV EBAPE. Embora tenha ênfase em abordagens positivistas e quantitativas, suas recomendações são úteis também para outras estratégias metodológicas.
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+## Estrutura
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+Cada capítulo deste livro corresponde a uma seção típica de um artigo científico:
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+- Título
+- Resumo
+- Introdução
+- Fundamentação teórica
+- Formulação de hipóteses
+- Contexto ou estudo de caso
+- Desenho de pesquisa
+- Apresentação de resultados
+- Discussão
+- Conclusão
+- Referências
+
+Ao final, espera-se que o(a) leitor(a) esteja apto(a) a planejar e redigir um artigo entre 8.000 e 10.000 palavras, com potencial de publicação em periódicos científicos qualificados.
+
+::: tip
+O código-fonte deste livro está disponível no GitHub: [joaoguedesneto/escrevendo-artigos](https://github.com/joaoguedesneto/escrevendo-artigos)
+:::
+
+::: tip
+A versão online do livro está disponível em: [https://joaoguedesneto.github.io/escrevendo-artigos/](https://joaoguedesneto.github.io/escrevendo-artigos/)
+:::
 
 ## Render book
 
