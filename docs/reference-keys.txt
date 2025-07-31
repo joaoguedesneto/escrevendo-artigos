@@ -4,3 +4,8 @@ sobre-o-autor
 dicas-iniciais-de-escrita
 use-a-primeira-pessoa
 tamanho-dos-parágrafos
+mapa-do-artigo
+o-que-é-o-mapa
+como-construir
+exemplo-prático
+por-que-isso-funciona

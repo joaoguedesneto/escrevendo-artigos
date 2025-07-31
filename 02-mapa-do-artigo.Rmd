@@ -1,0 +1,51 @@
+# Mapa do Artigo
+
+Uma das dicas mais valiosas que dou para quem está começando a escrever artigos científicos é: **antes de escrever o texto completo, monte um mapa do artigo**.
+
+Essa estratégia simples ajuda a organizar ideias, dar fluidez ao texto e evitar bloqueios durante o processo de escrita.
+
+## O que é o mapa?
+
+O mapa nada mais é do que uma lista de tópicos (bullet points) com a **ideia central de cada parágrafo** que você pretende escrever em cada seção do seu artigo.
+
+Você não precisa escrever frases completas, nem começar pela introdução. Basta anotar, com clareza, o que cada parágrafo precisa conter.
+
+Costumo dizer que o mapa é como o esqueleto lógico do seu texto: ele antecipa o argumento, distribui os conteúdos e te mostra, antes mesmo de escrever, **qual será a função de cada parágrafo dentro do artigo**.
+
+## Como construir
+
+1. **Divida o artigo em seções**: introdução, teoria, hipóteses, caso, método, resultados, discussão, conclusão etc.
+2. **Dentro de cada seção, defina o número aproximado de parágrafos**. (Apresento algumas sugestões nos próximos capítulos.)
+3. **Para cada parágrafo, escreva um único tópico com sua ideia central.**
+4. **Organize esses tópicos em ordem lógica.** Você deve garantir que todos eles estejam direcionados a responder sua pergunta de pesquisa e testar suas hipóteses.
+
+Não se preocupe em escrever as seções na ordem tradicional. Com o mapa pronto, você pode escrever primeiro a seção ou parágrafo que está mais clara para você — sem perder o fio condutor. 
+
+Isto é extremamente útil inclusive para os momentos em que você "travar" ao tentar avançar em uma determinada parte do artigo ou quando identificar uma referência útil para alguma parte que ainda não começou a escrever.
+
+## Exemplo prático
+
+Suponha que você esteja escrevendo a **introdução** de um artigo sobre desigualdade na educação pública brasileira. O mapa da introdução poderia ser assim:
+
+1. Neste artigo, pergunto: **em que medida a capacidade administrativa municipal influencia a distribuição de recursos educacionais no Brasil?**
+2. A desigualdade educacional é um problema persistente no Brasil, com impactos diretos sobre a cidadania e a mobilidade social.
+3. Políticas públicas têm buscado reduzir essa desigualdade, mas os resultados variam muito entre estados e municípios.
+4. A literatura internacional já analisou o papel das capacidades estatais na implementação de políticas educacionais.
+5. No Brasil, ainda sabemos pouco sobre como a capacidade local influencia a equidade na oferta de educação pública.
+6. Utilizo dados do Censo Escolar e indicadores de capacidade administrativa para testar essa relação.
+7. Os resultados mostram que municípios com maior capacidade tendem a alocar melhor os recursos, especialmente nas regiões mais pobres.
+8. Com isso, contribuo para os debates sobre federalismo, capacidade estatal e equidade na política educacional.
+
+Com esse mapa em mãos, fica mais fácil transformar cada tópico em um parágrafo, garantindo que a introdução tenha **lógica interna**, **clareza** e **economia de palavras**. Você sabe o que precisa escrever, onde cada coisa se encaixa e qual é a função de cada parágrafo.
+
+## Por que isso funciona?
+
+- **Evita repetições**: como cada parágrafo tem um propósito claro, você não escreve duas vezes a mesma coisa.
+- **Facilita a coesão**: os parágrafos se conectam melhor, pois você já sabe o que vem antes e depois.
+- **Ajuda a destravar**: se estiver com dificuldade em uma parte, pode pular para outra sem perder a lógica do texto.
+- **Permite ajustes estruturais**: é muito mais fácil reorganizar tópicos do que parágrafos inteiros já escritos.
+
+---
+
+Essa técnica simples tem mudado a forma como meus orientandos escrevem seus textos. Ao invés de escrever "na raça", o mapa te dá um roteiro. E um bom artigo, no fim das contas, é antes de tudo um argumento bem organizado.
+
