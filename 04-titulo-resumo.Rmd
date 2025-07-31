@@ -1,0 +1,73 @@
+# Título e Resumo
+
+## Título
+
+O título é, muitas vezes, a primeira — e talvez a única — parte do seu artigo que será lida. Ele precisa cumprir uma função essencial: **permitir ao leitor decidir rapidamente se o artigo é relevante para seus interesses**.
+
+### Objetivo da seção
+Fazer com que o leitor descubra, de forma direta, se o artigo vale a leitura.
+
+### O que incluir no título
+
+Um bom título não precisa ser criativo ou provocador. Precisa ser **informativo**. Sempre que possível, inclua:
+
+- As **principais variáveis** analisadas ou o recorte teórico;
+- O **caso** empírico (país, estado, organização);
+- Alguma indicação de **resultado principal** ou abordagem metodológica.
+
+### Exemplo de título claro e informativo
+
+> *Capacidade estatal e desigualdade na educação: uma análise econométrica dos municípios brasileiros com base no Censo Escolar*
+
+Neste exemplo, sabemos que o artigo trata de:
+- Uma relação entre duas variáveis ("capacidade estatal" e "desigualdade na educação");
+- O universo empírico ("municípios brasileiros");
+- O método utilizado ("análise econométrica");
+- A base de dados utilizada ("Censo Escolar").
+
+### Extensão sugerida
+
+Evite títulos longos. O ideal é que ele tenha até **20 palavras** — o suficiente para comunicar bem o conteúdo sem se tornar prolixo.
+
+---
+
+## Resumo
+
+O resumo é o cartão de visita do artigo. É o trecho que aparece em bases como Scielo, Web of Science etc. Por isso, precisa ser **claro, completo e direto**.
+
+### Objetivo da seção
+Permitir que o leitor decida se vale ou não a pena ler o artigo completo, com base em um parágrafo.
+
+### Elementos essenciais do resumo
+
+Um bom resumo responde, em um único parágrafo, às seguintes perguntas:
+
+1. **Qual é a pergunta de pesquisa?**  
+   Deve estar presente **com ponto de interrogação**. É ela que estrutura o artigo e, portanto, deve ser formulada de maneira específica e clara.
+
+2. **Por que essa pergunta é relevante?**  
+   Apresente a motivação teórica e/ou prática. Aponte qual lacuna na literatura ou problema real justifica a investigação.
+
+3. **Qual é o caso analisado e quais dados foram usados?**  
+   Indique brevemente o recorte empírico e a base de dados utilizada na análise.
+
+4. **Que método foi aplicado?**  
+   Especifique a estratégia geral de análise (ex.: regressão, estudo de caso, survey), sem entrar em detalhes técnicos.
+
+5. **Quais foram os principais resultados?**  
+   Apresente de forma direta o achado central da pesquisa — aquele que responde à pergunta de pesquisa.
+
+6. **Qual é a contribuição do artigo?**  
+   Mostre como seus resultados avançam a literatura existente ou trazem implicações relevantes para a prática profissional.
+
+### Extensão sugerida
+
+O resumo deve ter entre **100 e 150 palavras**. Escreva um parágrafo único, evitando subtópicos, listas ou termos excessivamente técnicos.
+
+### Exemplo de resumo
+
+> **Em que medida a capacidade administrativa municipal afeta a equidade na oferta de educação pública?** Este artigo investiga se a capacidade institucional dos municípios influencia a alocação de recursos educacionais no Brasil. Utilizamos dados do Censo Escolar, cruzados com indicadores de gestão fiscal, e aplicamos modelos de regressão linear. Os resultados indicam que municípios com maior capacidade administrativa distribuem melhor os recursos, sobretudo em regiões de maior vulnerabilidade social. A principal contribuição do estudo é demonstrar o papel da capacidade estatal na promoção da equidade educacional, ampliando o debate sobre federalismo e implementação de políticas públicas no Brasil.
+
+---
+
+No próximo capítulo, tratarei da seção de **Introdução** — talvez a parte mais estratégica do seu artigo. É nela que você conquista o leitor e mostra por que sua pesquisa importa.

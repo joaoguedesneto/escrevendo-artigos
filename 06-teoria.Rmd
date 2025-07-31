@@ -1,0 +1,62 @@
+# Fundamentação Teórica
+
+As seções teóricas são o alicerce analítico do seu artigo. É nelas que você mostra como sua pesquisa está inserida em debates mais amplos da literatura e justifica as escolhas conceituais e analíticas que estruturam o trabalho.
+
+Divido esta parte em duas seções complementares:
+
+1. **Conceitos e Justificativa**, onde você apresenta os principais conceitos e debates do campo, contextualiza sua pesquisa e mostra por que ela é relevante.
+2. **Formulação de Hipóteses**, onde você constrói, com base na literatura, as hipóteses que nortearão sua análise empírica.
+
+Essa separação ajuda a organizar melhor o argumento, especialmente em pesquisas quantitativas ou orientadas à causalidade. Mas mesmo estudos qualitativos ou exploratórios se beneficiam de uma boa delimitação conceitual e de expectativas analíticas claras.
+
+---
+
+## Conceitos e Justificativa
+
+### Objetivo da seção
+
+Contextualizar a área na qual se insere a sua pesquisa, apresentando os principais conceitos que serão utilizados no trabalho e aprofundando a motivação do estudo com base na literatura e/ou problemas práticos.
+
+### O que incluir
+
+- **Teorias mais relevantes do campo**, apresentadas de forma clara e concisa.
+- **Conceitos-chave** mobilizados ao longo do artigo, com suas definições e implicações.
+- **Problemas concretos** que justificam a escolha do tema e sua articulação com os debates teóricos selecionados.
+
+Essa seção não precisa ser longa nem exaustiva. Seu papel é apresentar o pano de fundo teórico que orienta a sua análise — e não revisar toda a literatura existente.
+
+Indo além, ela não deve ser apresentada como uma sequência de parágrafos onde cada um serve para resumir um artigo diferente. Demonstre domínio sobre a literatura com parágrafos centrados em ideias, articulando os resultados de diferentes artigos que dialogam entre si. Esta dica também é válida para outras seções do seu artigo!
+
+### Extensão sugerida
+
+Entre **6 e 8 parágrafos**, com **100 a 150 palavras cada**, totalizando entre **600 e 1.200 palavras**.
+
+---
+
+## Formulação de Hipóteses
+
+### Objetivo da seção
+
+Apresentar a fundamentação de cada hipótese formulada no artigo com base na literatura existente. Aqui, você explicita como se posiciona nos debates teóricos que estruturam sua pergunta de pesquisa.
+
+### O que incluir
+
+Para **cada hipótese**, é importante apresentar:
+
+- **Argumentos principais** que sustentam a formulação da hipótese.
+- **Argumentos contrários**, reconhecendo outras possibilidades teóricas.
+- **Justificativa da expectativa** assumida, mesmo diante de controvérsias.
+
+Cada hipótese deve conter uma **variável independente** e uma **variável dependente**, com expectativa de relação (causal ou correlacional) entre elas.
+
+É importante assegurar-se de cada hipótese seja precedida pela sua explicação teórica baseada em uma discussão com a literatura.
+
+Mesmo que sua pesquisa tenha um caráter mais exploratório, explicitar hipóteses (ou pressupostos, expectativas analíticas etc.) ajuda a dar direção à análise empírica e permite que o leitor compreenda a lógica do seu argumento.
+
+### Extensão sugerida
+
+Entre **10 e 12 parágrafos**, com **100 a 150 palavras cada**, totalizando entre **1.000 e 1.800 palavras**.
+
+---
+
+Nos próximo capítulo, passo à apresentação do detalhamento empírico do artigo - incluindo o caso, o desenho de pesquisa e o detalhamento dos resultados. É o momento de mostrar onde sua análise se ancora e por que esse caso é relevante para responder à pergunta proposta.

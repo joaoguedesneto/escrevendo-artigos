@@ -1,4 +1,4 @@
-# Estrutura geral de um artigo científico
+# Estrutura do Artigo
 
 Este capítulo apresenta uma visão geral das seções que compõem um artigo científico típico na área de Administração Pública. A proposta aqui não é impor um modelo único e rígido, mas oferecer um roteiro que ajude a organizar o raciocínio e estruturar o texto de forma clara, lógica e publicável.
 

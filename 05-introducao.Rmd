@@ -1,0 +1,50 @@
+# Introdução
+
+A introdução é uma das seções mais estratégicas do artigo científico. É nela que você apresenta sua pergunta de pesquisa, explica por que ela é relevante, antecipa os resultados e mostra, desde o início, qual é a contribuição do seu trabalho.
+
+Essa seção não deve ser confundida com um “aquecimento” ou uma revisão geral sobre o tema. Seu papel é conduzir o leitor diretamente ao problema que será tratado, explicando com objetividade o que será feito e por quê.
+
+## Objetivo da seção
+
+Apresentar a pergunta de pesquisa e sua motivação, descrevendo como o trabalho a responde. A introdução apresenta ainda um resumo dos achados, mostrando como eles contribuem para a literatura.
+
+## Elementos esperados
+
+Uma introdução bem construída deve incluir os seguintes elementos — e, idealmente, nesta ordem:
+
+1. **Pergunta de pesquisa**  
+   - Ela deve aparecer no primeiro ou segundo parágrafo, formulada de maneira clara e com ponto de interrogação.
+2. **Motivação teórica e/ou prática**  
+   - Explique por que essa pergunta importa, com base em debates da literatura e/ou em problemas concretos.
+3. **Resumo da escolha de caso e abordagem empírica**  
+   - Indique brevemente onde a pesquisa foi feita e com quais dados e métodos.
+4. **Resumo dos principais achados**  
+   - Antecipe os resultados mais importantes de forma direta.
+5. **Contribuição para a literatura**  
+   - Mostre como seu trabalho avança o debate teórico ou responde a uma lacuna.
+
+Esses cinco elementos formam o núcleo da introdução. Mesmo que sua pesquisa tenha abordagens qualitativas, indutivas ou exploratórias, essa estrutura ajuda a comunicar com clareza a lógica do seu argumento.
+
+### Extensão sugerida
+
+A introdução deve conter entre **8 e 10 parágrafos**, com cerca de **100 a 150 palavras cada**, totalizando **entre 800 e 1.500 palavras**.
+
+## Recomendações práticas
+
+- Escreva a introdução por último. Só depois de definir a teoria, os métodos e os resultados é que você saberá exatamente como sua pesquisa se posiciona.
+- Evite abrir com frases genéricas ou definições conceituais. Comece direto no problema de pesquisa. Isto orientará a sua escrita (para definir o que é o que não é relevante), além de permitir ao seu leitor entender porque cada informação apresentada é importante.
+- Não use a introdução para revisar autores de maneira detalhada — isso é papel da seção teórica.
+- Seja objetivo: introdução não é o lugar para criar suspense. O leitor precisa entender já nos primeiros parágrafos qual é a sua pergunta e o que você descobriu.
+
+## Exemplo esquemático de estrutura da introdução
+
+1. Formulação clara da pergunta de pesquisa e posicionamento na literatura
+2. Apresentação do tema geral
+3. Indicação do problema específico e motivação
+4. Lacuna na literatura e relevância teórica
+5. Contexto empírico e base de dados
+6. Estratégia metodológica geral
+7. Principais resultados
+8. Contribuições do artigo
+
+No próximo capítulo, tratarei das seções teóricas. É nelas que você mostra como está inserido nos debates da sua área, onde o seu argumento começa a ganhar forma analítica e como você mobilizou a literatura revisada para propor suas hipóteses.
