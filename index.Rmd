@@ -16,7 +16,7 @@ url: https://joaoguedesneto.github.io/escrevendo-artigos/
 
 Este livro foi criado para auxiliar estudantes de pós-graduação — especialmente da área de Administração Pública — na elaboração de artigos científicos publicáveis. Ele organiza, em formato acessível, recomendações práticas sobre como estruturar um artigo acadêmico de forma clara, coesa e alinhada às exigências das principais revistas científicas da área.
 
-O conteúdo é baseado no guia original elaborado por João V. Guedes-Neto e vem sendo utilizado nos cursos de mestrado e doutorado profissional da FGV EBAPE. Embora tenha ênfase em abordagens positivistas e quantitativas, suas recomendações são úteis também para outras estratégias metodológicas.
+Elaborei este conteúdo e venho utilizaO conteúdo foi elaborado por João V. Guedes-Neto e vem sendo utilizado nos cursos de mestrado e doutorado profissional da FGV EBAPE. Embora tenha ênfase em abordagens positivistas e quantitativas, suas recomendações são úteis também para outras estratégias metodológicas.
 
 ## Estrutura
 
