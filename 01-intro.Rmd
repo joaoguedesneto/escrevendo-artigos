@@ -1,22 +1,32 @@
 ---
-title: "Introdução"
+title: "Dicas de Escrita"
 output: bookdown::gitbook
 ---
 
-# Introdução
+# Dicas iniciais de escrita
 
-Este guia foi desenvolvido para auxiliar alunos de pós-graduação na redação de artigos científicos na área de Administração Pública.
+Este guia não trata apenas da estrutura de um artigo científico, mas também da forma como ele é escrito. Existem diferentes estilos e preferências editoriais, e aqui compartilho como **eu costumo escrever** e orientar meus orientandos.
 
-A proposta é oferecer um roteiro claro, direto e prático, baseado em referências consagradas da literatura internacional, com foco especial em abordagens positivistas e quantitativas — mas que também pode ser útil para orientar pesquisas com outras perspectivas metodológicas.
+Essas são sugestões — não regras absolutas. Cada pesquisador encontra, com o tempo, seu próprio estilo. Mas acredito que seguir algumas diretrizes básicas pode facilitar o processo de escrita e tornar o texto mais claro, direto e conectado.
 
-Ao longo dos capítulos, são apresentadas recomendações sobre como estruturar as principais seções de um artigo científico, desde o título até as referências bibliográficas. O guia busca equilibrar **clareza teórica**, **consistência metodológica** e **eficiência na escrita**, facilitando a publicação em periódicos científicos da área.
+## Use a primeira pessoa
 
-::: tip
-A ideia central é ajudar o(a) pesquisador(a) a comunicar sua pesquisa de forma mais precisa, articulada e persuasiva — sem abrir mão do rigor acadêmico.
-:::
+Sempre que possível, escreva de maneira direta, indicando quem é o sujeito da ação. Evite construções em voz passiva como “foi observado que...”. Prefira formas como “observei que...”, “coletamos os dados...” ou “neste artigo, argumento que...”.
 
-## Sobre o autor
+Isso ajuda o leitor a compreender quem está falando, qual é o argumento central, e quem é o responsável por cada escolha metodológica ou analítica.
 
-João V. Guedes-Neto é professor da FGV EBAPE, onde atua na coordenação do Mestrado Profissional em Administração Pública (MAP) e do Doutorado Profissional em Administração Pública (DAP). É doutor em Ciência Política, com foco em burocracia, políticas públicas e governança democrática. Seus artigos têm sido publicados em periódicos nacionais e internacionais, e ele participa ativamente de projetos de pesquisa aplicada com órgãos públicos e organismos internacionais.
+No caso de artigos com apenas um autor, uso a **primeira pessoa do singular** — por exemplo: “neste artigo, defendo que...”. Em artigos com mais de um autor, opto pela **primeira pessoa do plural** — como “utilizamos dados coletados...” ou “formulamos três hipóteses principais”.
+
+Sei que nem todos os periódicos ou orientadores adotam essa prática, mas essa tem sido minha forma de escrever artigos científicos. E, do ponto de vista da clareza, considero mais eficaz do que o uso impessoal e passivo.
+
+## Tamanho dos parágrafos
+
+A boa escrita científica exige equilíbrio. Evite parágrafos curtos demais (menos de 4 linhas) — eles tendem a ser superficiais. E evite também parágrafos muito longos (mais de 8 linhas) — eles cansam o leitor e dificultam a compreensão da ideia central.
+
+Costumo organizar meus parágrafos com cerca de **100 a 150 palavras**, e sugiro que cada um deles tenha **uma única ideia central**, articulada com o parágrafo anterior e preparando o próximo.
+
+A organização do texto por parágrafos coesos e bem conectados é o que garante fluidez à leitura e permite que o leitor compreenda como o seu argumento vai sendo construído ao longo do artigo.
 
 ---
+
+Essas são as primeiras sugestões sobre a forma de escrever artigos acadêmicos. Nas páginas seguintes, entro na estrutura de cada seção de um artigo científico, com dicas práticas para que o seu texto seja claro, objetivo e publicável.
