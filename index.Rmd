@@ -14,13 +14,15 @@ url: https://joaoguedesneto.github.io/escrevendo-artigos/
 
 # Sobre este guia
 
-Este livro foi criado para auxiliar estudantes de pós-graduação — especialmente da área de Administração Pública — na elaboração de artigos científicos publicáveis. Ele organiza, em formato acessível, recomendações práticas sobre como estruturar um artigo acadêmico de forma clara, coesa e alinhada às exigências das principais revistas científicas da área.
+Criei este material para auxiliar estudantes de pós-graduação — especialmente da área de Administração Pública — na elaboração de artigos científicos publicáveis. Ele organiza, em formato acessível, recomendações práticas sobre como estruturar um artigo acadêmico de forma clara, coesa e alinhada às exigências das principais revistas científicas da área.
 
-Elaborei este conteúdo e venho utilizaO conteúdo foi elaborado por João V. Guedes-Neto e vem sendo utilizado nos cursos de mestrado e doutorado profissional da FGV EBAPE. Embora tenha ênfase em abordagens positivistas e quantitativas, suas recomendações são úteis também para outras estratégias metodológicas.
+Elaborei este conteúdo e venho utilizando-o com meus orientandos do [Mestrado Profissional em Administração Pública da FGV EBAPE](https://ebape.fgv.br/cursos/mestrado-profissional/mestrado-profissional-em-administracao-publica-map).
+
+Embora tenha ênfase em abordagens positivistas e quantitativas, suas recomendações são úteis também para outras estratégias metodológicas.
 
 ## Estrutura
 
-Cada capítulo deste livro corresponde a uma seção típica de um artigo científico:
+Além de uma breve introdução com dicas sobre como redigir seus textos, cada capítulo deste livro corresponde a uma seção típica de um artigo científico:
 
 - Título
 - Resumo
@@ -37,33 +39,12 @@ Cada capítulo deste livro corresponde a uma seção típica de um artigo cient�
 Ao final, espera-se que o(a) leitor(a) esteja apto(a) a planejar e redigir um artigo entre 8.000 e 10.000 palavras, com potencial de publicação em periódicos científicos qualificados.
 
 ::: tip
-O código-fonte deste livro está disponível no GitHub: [joaoguedesneto/escrevendo-artigos](https://github.com/joaoguedesneto/escrevendo-artigos)
-:::
-
-::: tip
 A versão online do livro está disponível em: [https://joaoguedesneto.github.io/escrevendo-artigos/](https://joaoguedesneto.github.io/escrevendo-artigos/)
+
+## Sobre o autor
+
+João V. Guedes-Neto é professor da FGV EBAPE, onde atua na coordenação do Mestrado Profissional em Administração Pública (MAP) e do Doutorado Profissional em Administração Pública (DAP). É doutor e mestre em Ciência Política pela University of Pittsburgh (EUA), mestre em Economia, Direito e Política pela Leuphana Universität Lüneburg (Alemanha), mestre em Gestão Pública e Sociedade pela Universidade Federal de Alfenas e bacharel em Ciências Econômicas pela Universidade Federal de São João del-Rei.
+
+É co-organizador do livro [Inside Brazilian Bureaucracy: Politics and Policy Implementation in Brazilian States](https://www.routledge.com/Inside-Brazilian-Bureaucracy-Politics-and-Policy-Implementation-in-Brazilian-States/Ames-Guedes-Neto/p/book/9781032939957) (Routledge) e co-autor do livro [Bureaucratic Resistance in Times of Democratic Backsliding](https://www.cambridge.org/core/elements/abs/bureaucratic-resistance-in-times-of-democratic-backsliding/9C391F4058387D8BBD7B4F2D20B1E936) (Cambridge University Press). Tem artigos publicados em revistas como Comparative Political Studies, Eletoral Studies, Party Politics, Representation e Political Studies Review.
+
 :::
-
-## Render book
-
-You can render the HTML version of this example book without changing anything:
-
-1. Find the **Build** pane in the RStudio IDE, and
-
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
