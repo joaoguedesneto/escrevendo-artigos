@@ -6,6 +6,4 @@ bookdown::gitbook:
         <li><a href="./">Guia para Artigos</a></li>
       after: |
         <li><a href="https://joaoguedesneto.github.io/" target="blank">Produzido por João V. Guedes-Neto</a></li>
-    edit: https://github.com/joaoguedesneto/escrevendo-artigos/edit/BRANCH/%s
-    download: ["pdf"]
 
