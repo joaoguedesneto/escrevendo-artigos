@@ -11,3 +11,7 @@ rmd_files:
   - 04-titulo-resumo.Rmd
   - 05-introducao.Rmd
   - 06-teoria.Rmd
+  - 07-analise-empirica.Rmd
+  - 08-discussao-conclusao.Rmd
+  - 09-referencias.Rmd
+  - 10-resumo.Rmd

@@ -1,0 +1,49 @@
+# Discussão e Conclusão
+
+As seções finais de um artigo cumprem duas funções complementares. A **discussão** interpreta os resultados empíricos com mais profundidade, relacionando-os às hipóteses e à literatura. A **conclusão**, por sua vez, mostra como o estudo contribui para o campo, reconhece suas limitações e propõe direções para pesquisas futuras.
+
+É nesse momento que o artigo se fecha como um argumento coeso — não apenas pela descrição do que foi feito, mas pela explicação clara de **por que isso importa** para quem estuda ou atua na área.
+
+---
+
+## Discussão
+
+### Objetivo da subseção
+
+Discutir os resultados encontrados, indicando quais confirmam as hipóteses e quais não confirmam, relacionando-os com os debates teóricos mobilizados e apontando contribuições relevantes.
+
+### O que incluir
+
+- **Explicação de como cada resultado empírico se relaciona com cada hipótese**: o que foi confirmado, o que foi parcialmente confirmado e o que não se confirmou.
+- **Discussão teórica**: como esses achados se conectam com a literatura utilizada na formulação das hipóteses (retomando autores já citados).
+- **Especulações explicativas**: quando os resultados divergem do esperado, indique possíveis motivos — como variáveis não observadas, limitações metodológicas ou especificidades contextuais.
+
+O mais importante é não tratar os resultados como algo “neutro”. Eles precisam ser explicados à luz dos objetivos do artigo, da teoria e da realidade empírica analisada.
+
+### Extensão sugerida
+
+Entre **6 e 8 parágrafos**, com **100 a 150 palavras cada**, totalizando entre **600 e 1.200 palavras**.
+
+---
+
+## Conclusão
+
+### Objetivo da subseção
+
+Encerrar o artigo com uma síntese clara de suas contribuições, reconhecendo limitações e sugerindo caminhos para novas pesquisas. A conclusão é o momento em que você, como especialista no tema, aponta o que aprendeu e o que outros pesquisadores deveriam observar a partir do seu trabalho.
+
+### O que incluir
+
+- **Contribuições gerais do artigo**: o que o seu estudo acrescenta ao debate acadêmico ou à prática da política pública.
+- **Limitações da pesquisa**: apresente de forma honesta os limites do seu desenho empírico, sem fragilizar a argumentação central.
+- **Recomendações para estudos futuros**: indique questões que ficaram em aberto, hipóteses que poderiam ser testadas em outros contextos, ou métodos que poderiam complementar sua abordagem.
+
+Evite transformar a conclusão em uma repetição da introdução. Ela deve ser **reflexiva**, propositiva e demonstrar domínio sobre o tema tratado.
+
+### Extensão sugerida
+
+Entre **6 e 8 parágrafos**, com **100 a 150 palavras cada**, totalizando entre **600 e 1.200 palavras**.
+
+---
+
+No próximo capítulo, apresento orientações sobre a seção de **referências bibliográficas**. Embora muitas vezes tratada como algo meramente formal, ela cumpre um papel central na legitimação do seu argumento e na inserção do seu trabalho na comunidade científica.

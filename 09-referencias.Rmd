@@ -1,0 +1,62 @@
+# Referências
+
+A seção de referências cumpre uma função essencial: mostrar os trabalhos que embasaram o seu artigo e posicionar sua pesquisa dentro do campo científico. Não se trata apenas de uma exigência formal — é um **registro da tradição acadêmica com a qual você está dialogando**.
+
+O ideal é que a maioria das suas referências seja composta por **artigos científicos publicados em periódicos qualificados** e por **livros acadêmicos de editoras reconhecidas**, preferencialmente universitárias. Sempre que possível, dê preferência a fontes que contribuam diretamente para a construção do seu argumento — e não apenas para contextualizações gerais.
+
+Também é possível citar **relatórios técnicos**, **documentos governamentais**, **leis** e **matérias jornalísticas**, mas essas fontes devem representar **uma pequena proporção do total**.
+
+É essencial que todos os trabalhos listados na sua bibliografia sejam citados ao longo do seu artigo.
+
+## Objetivo da seção
+
+Indicar todos os textos que foram utilizados no desenvolvimento do seu artigo e que estão citados de forma direta ou indireta no texto.
+
+## O que incluir
+
+- Artigos científicos (prioritariamente de periódicos com boa reputação);
+- Livros acadêmicos, especialmente de editoras universitárias;
+- Documentos oficiais, relatórios, leis ou fontes da mídia, quando relevantes;
+- Citações formatadas de acordo com o estilo requerido (ex.: ABNT, APSA, APA ou Chicago — a depender da revista ou do programa de pós-graduação).
+
+## Quantidade esperada
+
+Não existe um número mágico de referências. Mas, de forma geral, artigos com **sólido embasamento teórico** costumam ter entre **20 e 60 referências**. Trabalhos puramente descritivos ou opinativos costumam ter menos — e, por isso mesmo, são menos valorizados em avaliações acadêmicas.
+
+## Zotero
+
+Gerenciar referências manualmente é trabalhoso e arriscado. À medida que você escreve, insere novas fontes e revisa o texto, é muito fácil se perder — citando autores que não estão na lista ou esquecendo de adicionar um trabalho mencionado no texto.
+
+Por isso, **recomendo fortemente o uso do Zotero**: um gerenciador de referências gratuito, de código aberto e amplamente utilizado na academia.
+
+> 🔗 [Acesse o site oficial do Zotero](https://www.zotero.org/)
+
+O Zotero permite que você:
+
+- Armazene e organize todas as suas referências bibliográficas;
+- Insira automaticamente citações no corpo do texto e gere a bibliografia final;
+- Integre-se com o **Microsoft Word**, **LibreOffice**, **Google Docs** ou até com o **RMarkdown** via `csl` e arquivos `.bib`;
+- Atualize as referências automaticamente ao alterar dados no gerenciador;
+- Evite erros comuns, como formatações inconsistentes, autores omitidos ou duplicações.
+
+Esse tipo de ferramenta é **ainda mais útil em artigos com múltiplos coautores**, onde o controle manual das referências se torna inviável.
+
+---
+
+## Qualidade das referências
+
+O sistema **Qualis Capes**, tal como conhecíamos, está sendo descontinuado. Ainda assim, rankings de periódicos continuam sendo úteis — especialmente para quem está começando na pesquisa científica.
+
+> ⚠️ Os rankings falham. Mas ainda são melhores do que critério nenhum.
+
+Com o tempo, o pesquisador passa a reconhecer, com base na leitura crítica, quais revistas publicam bons artigos e quais autores têm produção relevante em seu campo.
+
+Enquanto isso, recomendo utilizar como referência os rankings atualizados da **Área 37 da CAPES** (Administração, Ciências Contábeis e Turismo). Um grupo de pesquisadores organizou um site que facilita essa busca:
+
+> 🔗 [https://periodicos-adm.com/](https://periodicos-adm.com/)
+
+Lá, você pode verificar rapidamente a classificação de um periódico de acordo com os critérios adotados recentemente pela área.
+
+---
+
+A seção de referências não é o fim burocrático do artigo — ela **sinaliza de onde você veio e com quem você está dialogando**. Uma bibliografia sólida comunica, silenciosamente, o rigor, a seriedade e a inserção acadêmica do seu trabalho.

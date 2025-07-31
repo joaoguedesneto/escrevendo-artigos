@@ -1,0 +1,65 @@
+# Resumo
+
+Este capítulo apresenta uma visão consolidada das seções que compõem um artigo científico, reunindo em formato de tabela os objetivos, elementos essenciais e extensão esperada de cada uma delas.
+
+A ideia é oferecer uma referência rápida — especialmente útil para quem já leu os capítulos anteriores e quer retomar, de forma sintética, os pontos principais de cada parte do texto.
+
+```{r echo=FALSE, message=FALSE}
+library(knitr)
+library(kableExtra)
+
+tabela_secoes <- data.frame(
+  Seção = c(
+    "Título", "Resumo", "Introdução", 
+    "Teoria 1 (Conceitos)", "Teoria 2 (Hipóteses)",
+    "Caso", "Desenho de Pesquisa", "Resultados", 
+    "Discussão", "Conclusão", "Referências"
+  ),
+  `Objetivo` = c(
+    "Fazer com que o leitor descubra se o artigo é relevante ou não para ser lido.",
+    "Descrever os principais componentes do estudo e permitir que o leitor decida se vale ou não ler o artigo.",
+    "Apresentar a pergunta de pesquisa e sua motivação, descrevendo como o trabalho a responde.",
+    "Contextualizar a área de estudo, apresentando conceitos e justificando a pesquisa.",
+    "Apresentar e justificar cada hipótese com base na literatura existente.",
+    "Apresentar o caso empírico analisado e justificar sua escolha.",
+    "Descrever como os dados foram coletados e testam as hipóteses.",
+    "Apresentar os achados empíricos e discutir sua relação com as hipóteses.",
+    "Interpretar os resultados e mostrar como se relacionam com a literatura.",
+    "Retomar a contribuição do estudo, reconhecer limitações e sugerir pesquisas futuras.",
+    "Indicar os textos citados e posicionar o artigo na literatura."
+  ),
+  `Elementos` = c(
+    "Principais variáveis, teorias, resultados ou caso/método.",
+    "Pergunta de pesquisa; motivação; dados e métodos; principais achados; contribuição.",
+    "Pergunta de pesquisa; motivação; caso e abordagem; resumo dos achados e contribuição.",
+    "Teorias e conceitos relevantes; problemas práticos que justificam o estudo.",
+    "Hipóteses bem formuladas com argumentos a favor e contra; relação entre variáveis.",
+    "Contexto institucional; legislação; relações de poder; delimitação do caso.",
+    "Coleta de dados; construção das variáveis; testes utilizados.",
+    "Estatísticas descritivas; regressões; interpretação dos coeficientes.",
+    "Relação entre resultados e hipóteses; diálogo com a literatura; explicações alternativas.",
+    "Contribuição geral; limitações; propostas para pesquisas futuras.",
+    "Lista de trabalhos citados no formato ABNT ou outro requerido."
+  ),
+  `Extensão` = c(
+    "Até 20 palavras",
+    "100–150 palavras",
+    "800–1.500 palavras (8–10 parágrafos)",
+    "600–1.200 palavras (6–8 parágrafos)",
+    "1.000–1.800 palavras (10–12 parágrafos)",
+    "800–1.500 palavras (8–10 parágrafos)",
+    "600–1.500 palavras (6–10 parágrafos)",
+    "800–1.500 palavras (8–10 parágrafos)",
+    "600–1.200 palavras (6–8 parágrafos)",
+    "600–1.200 palavras (6–8 parágrafos)",
+    "Variável (20–60 referências)"
+  )
+)
+
+kable(tabela_secoes, format = "html", escape = TRUE) %>%
+  kable_styling(full_width = TRUE, font_size = 12, bootstrap_options = c("striped", "hover", "condensed")) %>%
+  column_spec(1, bold = TRUE, width = "10em") %>%
+  column_spec(2, width = "20em") %>%
+  column_spec(3, width = "25em") %>%
+  column_spec(4, width = "15em")
+```

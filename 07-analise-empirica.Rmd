@@ -1,0 +1,78 @@
+# Análise empírica
+
+Nos próximos parágrafos, passo à apresentação do detalhamento empírico do artigo — incluindo o caso, o desenho de pesquisa e os principais resultados. Esta é a parte em que você mostra onde sua análise se ancora, como os dados foram coletados e analisados, e de que maneira os achados respondem à pergunta de pesquisa formulada na introdução.
+
+Essas três seções — **caso**, **desenho** e **resultados** — precisam estar bem articuladas com a teoria e com as hipóteses que você apresentou anteriormente. O leitor precisa compreender não apenas o que você descobriu, mas como você chegou a essas conclusões e por que elas fazem sentido dentro do arcabouço proposto.
+
+---
+
+## Caso ou contexto
+
+### Objetivo da subseção
+
+Apresentar o caso que você selecionou para testar suas hipóteses, mostrando suas particularidades e até que ponto ele pode ou não ser comparável a outros casos.
+
+### O que incluir
+
+- O **contexto institucional, histórico ou político** no qual a pesquisa foi realizada.
+- A explicação para um leitor leigo entender as bases que estruturam o fenômeno analisado.
+- As **relações de poder** que afetam o funcionamento do caso.
+- Um breve histórico da organização ou política analisada.
+- Indicação de **casos semelhantes** e justificativa da escolha.
+- **Delimitação clara** do escopo do estudo (o que está e o que não está sendo analisado).
+
+O objetivo aqui não é apenas descrever o caso, mas justificar por que ele é adequado para investigar a pergunta de pesquisa.
+
+Neste sentido, não tente vender seu caso como uma "jabuticaba" ou algo muito excepcional. Um bom caso é aquele que serve para testar algo generalizável. Se o seu caso é diferente demais de todo o resto que existe, sua explicação acaba sendo útil apenas para ele mesmo.
+
+### Extensão sugerida
+
+Entre **8 e 10 parágrafos**, com **100 a 150 palavras cada**, totalizando entre **800 e 1.500 palavras**.
+
+---
+
+## Desenho de pesquisa
+
+### Objetivo da subseção
+
+Apresentar o desenho empírico elaborado para testar as hipóteses formuladas anteriormente, deixando claro como as evidências foram coletadas e analisadas.
+
+### O que incluir
+
+- Como os **dados foram coletados** (fontes, período, nível de análise).
+- Como foram construídas as **variáveis dependentes e independentes**.
+- Quais **testes ou métodos** foram utilizados para verificar as hipóteses (ex: modelos de regressão, análise de correspondência, experimento de survey etc.).
+
+O foco aqui não é explicar a técnica em si, mas demonstrar sua adequação ao problema investigado e sua coerência com a teoria apresentada.
+
+Por exemplo, se o seu trabalho se trata de um experimento de survey, esta seção deve explicar como cada questão e vinheta foram construídas e porque elas são ideais para testar as hipóteses que você formulou.
+
+### Extensão sugerida
+
+Entre **6 e 10 parágrafos**, com **100 a 150 palavras cada**, totalizando entre **600 e 1.500 palavras**.
+
+---
+
+## Resultados
+
+### Objetivo da subseção
+
+Apresentar os principais achados empíricos, discutindo como cada um confirma ou não as hipóteses formuladas anteriormente.
+
+### O que incluir
+
+- Tabelas com **dados descritivos** (média, desvio padrão, valores mínimos e máximos).
+- Interpretação geral dos dados, com possíveis comparações com a literatura ou expectativas iniciais.
+- Resultados de regressões ou testes estatísticos, com breve explicação dos indicadores gerais (ex: R², significância, variância explicada).
+- **Descrição dos coeficientes**, mostrando como cada um se relaciona com as hipóteses.
+- Destaque para padrões relevantes, efeitos inesperados ou variações relevantes entre subgrupos.
+
+Evite apresentar resultados sem interpretação. O leitor precisa entender **o que os dados estão dizendo** e como eles **dialogam com sua pergunta de pesquisa**. Não assuma que o leitor entenderá algo sem explicação simplesmente por estar em uma tabela ou gráfico.
+
+### Extensão sugerida
+
+Entre **8 e 10 parágrafos**, com **100 a 150 palavras cada**, totalizando entre **800 e 1.500 palavras**.
+
+---
+
+No próximo capítulo, passo à **discussão dos resultados** e à **conclusão do artigo**. A discussão é o momento de interpretar os achados com mais profundidade, mostrando como eles confirmam (ou não) as hipóteses e como dialogam com a literatura revisada. Já a conclusão retoma a pergunta inicial, destaca a contribuição do estudo, reconhece suas limitações e propõe caminhos para futuras pesquisas. É nessas seções finais que o seu argumento se consolida e sua pesquisa mostra a que veio.
